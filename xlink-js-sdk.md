@@ -90,3 +90,22 @@ Device类表示设备。每一个Device实例根据设备id(device_id)唯一关�
 |--------------|------------|
 | Boolean | put(String key, String value) |
 | String | get(String key) |
+
+###蓝牙及WIFI内网流程图###
+```flow
+st=>start: Start
+init=>operation: 初始化XSDK
+addEventListener=>operation: 添加XSDK监听
+getDevices=>operation: 扫描设备
+connectDevice=>operation: 连接设备
+controlDevice=>operation: 监听设备信息/向设备发送数据
+deviceCond=>condition: connect or error?
+sdkCond=>condition: ready or error？
+e=>end: End
+
+st->init->addEventListener->sdkCond
+sdkCond(no)->e
+sdkCond(yes)->getDevices->connectDevice->deviceCond
+deviceCond(yes)->controlDevice
+deviceCond(no)->e
+```
