@@ -1,92 +1,92 @@
-# JS SDK ½Ó¿ÚÎÄµµ #
-ÔÆÖÇÒ×ÎªH5¿ª·¢Ìá¹©ÁË¿çÆ½Ì¨(android ios)µÄÈÝÆ÷½Ó¿ÚJS SDK(ÒÔÏÂ¼ò³ÆJS SDK)£¬Ö§³ÖWIFIºÍÀ¶ÑÀÄ£Ê½Á¬½Ó¡£
+# JS SDK æŽ¥å£æ–‡æ¡£ #
+äº‘æ™ºæ˜“ä¸ºH5å¼€å‘æä¾›äº†è·¨å¹³å°(android ios)çš„å®¹å™¨æŽ¥å£JS SDK(ä»¥ä¸‹ç®€ç§°JS SDK)ï¼Œæ”¯æŒWIFIå’Œè“ç‰™æ¨¡å¼è¿žæŽ¥ã€‚
 
 
-- [¸ÅÊö](#overview)
-- [°²×°·½·¨](#installation)
-- [´úÂëÊ¾Àý](#example)
-- [½Ó¿ÚÎÄµµ](#document)
+- [æ¦‚è¿°](#overview)
+- [å®‰è£…æ–¹æ³•](#installation)
+- [ä»£ç ç¤ºä¾‹](#example)
+- [æŽ¥å£æ–‡æ¡£](#document)
 
-## <a name='overview'>¸ÅÊö</a> ##
-¸ÃÎÄµµÃèÊöÁËJS SDKµÄ°²×°ºÍÊ¹ÓÃ·½·¨¡£°üÀ¨¼òµ¥µÄ´úÂëÊ¾Àý
-JS SDKÌá¹©ÁË2¸öÀà:'XSDK'ºÍ'Device'¡£[Í¼1.1](#uml)ÊÇJS SDKµÄUMLÀàÍ¼
-![Í¼1.1]()
+## <a name='overview'>æ¦‚è¿°</a> ##
+è¯¥æ–‡æ¡£æè¿°äº†JS SDKçš„å®‰è£…å’Œä½¿ç”¨æ–¹æ³•ã€‚åŒ…æ‹¬ç®€å•çš„ä»£ç ç¤ºä¾‹
+JS SDKæä¾›äº†2ä¸ªç±»:'XSDK'å’Œ'Device'ã€‚[å›¾1.1](#uml)æ˜¯JS SDKçš„UMLç±»å›¾
+![å›¾1.1](https://github.com/ShighGoing/Interface/blob/master/resource/image/xjssdk.png)
 
-## <a name='installation'>°²×°·½·¨</a> ##
-## <a name='example'>´úÂëÊ¾Àý</a> ##
-## <a name='document'>½Ó¿ÚÎÄµµ</a> ##
+## <a name='installation'>å®‰è£…æ–¹æ³•</a> ##
+## <a name='example'>ä»£ç ç¤ºä¾‹</a> ##
+## <a name='document'>æŽ¥å£æ–‡æ¡£</a> ##
 ### <a name='xsdk'>Class XSDK</a> ###
-JS SDK ÔÚwindowÏÂ±©Â¶ÁËÒ»¸öÈ«¾ÖµÄXSDKÀà£¬¸ù¾Ý¹¹Ôìº¯Êý²ÎÊý£¬·µ»Ø²»Í¬µÄÁ¬½ÓÊµÀý£¬Ã¿¸öÁ¬½Ó£¨À¶ÑÀ»òÕßWIFI£©Ö»Î¬»¤Ò»¸öÊµÀý¡£XSDK»¹Ìá¹©°üÀ¨([UI](#xui) [Êý¾Ý´æ´¢](#dataStorage))µÈ¾²Ì¬·½·¨¡£
+JS SDK åœ¨windowä¸‹æš´éœ²äº†ä¸€ä¸ªå…¨å±€çš„XSDKç±»ï¼Œæ ¹æ®æž„é€ å‡½æ•°å‚æ•°ï¼Œè¿”å›žä¸åŒçš„è¿žæŽ¥å®žä¾‹ï¼Œæ¯ä¸ªè¿žæŽ¥ï¼ˆè“ç‰™æˆ–è€…WIFIï¼‰åªç»´æŠ¤ä¸€ä¸ªå®žä¾‹ã€‚XSDKè¿˜æä¾›åŒ…æ‹¬([UI](#xui) [æ•°æ®å­˜å‚¨](#dataStorage))ç­‰é™æ€æ–¹æ³•ã€‚
 
-#### ÊôÐÔ ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ÊôÐÔºÍÃèÊö |
+#### å±žæ€§ ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | å±žæ€§å’Œæè¿° |
 |--------------|------------|
-| String | sdkType (ÊµÀýµÄÀàÐÍ£¬À¶ÑÀ»òÕßWIFI) |
-| Array | devices (DeviceÀàÐÍÊý×é) |
-| static Object | systemInfo (²Ù×÷ÏµÍ³ºÍÈÝÆ÷ÐÅÏ¢) |
-| [XUI](#xui) | ui (UIÏà¹Ø²Ù×÷Àà£¬ÀýÈç¹Ø±Õ´°¿Ú£¬É¨Ãè¶þÎ¬Âë) |
-| [DataStorage](#dataStorage) | dataStorage (Êý¾Ý´æ´¢) |
+| String | sdkType (å®žä¾‹çš„ç±»åž‹ï¼Œè“ç‰™æˆ–è€…WIFI) |
+| Array | devices (Deviceç±»åž‹æ•°ç»„) |
+| static Object | systemInfo (æ“ä½œç³»ç»Ÿå’Œå®¹å™¨ä¿¡æ¯) |
+| [XUI](#xui) | ui (UIç›¸å…³æ“ä½œç±»ï¼Œä¾‹å¦‚å…³é—­çª—å£ï¼Œæ‰«æäºŒç»´ç ) |
+| [DataStorage](#dataStorage) | dataStorage (æ•°æ®å­˜å‚¨) |
 
-#### ¹¹Ôìº¯Êý ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ¹¹Ôìº¯ÊýºÍÃèÊö |
+#### æž„é€ å‡½æ•° ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | æž„é€ å‡½æ•°å’Œæè¿° |
 |--------------|------------|
-| [XSDK](#xsdk) | XSDK(String type) (·µ»ØXSDKµÄÒ»¸öÁ¬½ÓÊµÀý) <br/>²ÎÊý£ºtype-Éè±¸ÀàÐÍ[SDKType](#sdkType)µÄÒ»ÖÖ|
+| [XSDK](#xsdk) | XSDK(String type) (è¿”å›žXSDKçš„ä¸€ä¸ªè¿žæŽ¥å®žä¾‹) <br/>å‚æ•°ï¼štype-è®¾å¤‡ç±»åž‹[SDKType](#sdkType)çš„ä¸€ç§|
 
-#### ·½·¨ ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ·½·¨ºÍÃèÊö |
+#### æ–¹æ³• ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | æ–¹æ³•å’Œæè¿° |
 |--------------|------------|
-| void | emit (String event) (´¥·¢ÊÂ¼þ) <br/> ²ÎÊý: event-Ö§³ÖµÄ·¢ËÍÊÂ¼þÓÐ[STARTSCAN](#STARTSCAN) [CANCELSCAN](#CANCELSCAN) [DESTORY](#DESTORY)|
-| void | on (String event, Function cb) (¼àÌýÊÂ¼þ) <br/>²ÎÊý: event-Ö§³ÖµÄ¼àÌýÊÂ¼þÓÐ[READY](#READY) [SCAN](#DISCONNECT) [DATA](#DATA) [TIMEOUT](#TIMEOUT) [ERROR](#ERROR) <br/> &#8195;&#8195;&#8195;cb-¼àÌýÊÂ¼þµÄ»Øµ÷º¯Êý|
+| void | emit (String event) (è§¦å‘äº‹ä»¶) <br/> å‚æ•°: event-æ”¯æŒçš„å‘é€äº‹ä»¶æœ‰[STARTSCAN](#STARTSCAN) [CANCELSCAN](#CANCELSCAN) [DESTORY](#DESTORY)|
+| void | on (String event, Function cb) (ç›‘å¬äº‹ä»¶) <br/>å‚æ•°: event-æ”¯æŒçš„ç›‘å¬äº‹ä»¶æœ‰[READY](#READY) [SCAN](#DISCONNECT) [DATA](#DATA) [TIMEOUT](#TIMEOUT) [ERROR](#ERROR) <br/> &#8195;&#8195;&#8195;cb-ç›‘å¬äº‹ä»¶çš„å›žè°ƒå‡½æ•°|
 
 ### <a name='device'>Class Device</a> ###
-DeviceÀà±íÊ¾Éè±¸¡£Ã¿Ò»¸öDeviceÊµÀý¸ù¾ÝÉè±¸id(device_id)Î¨Ò»¹ØÁªÒ»¸öÉè±¸¡£
-#### ÊôÐÔ ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ÊôÐÔºÍÃèÊö |
+Deviceç±»è¡¨ç¤ºè®¾å¤‡ã€‚æ¯ä¸€ä¸ªDeviceå®žä¾‹æ ¹æ®è®¾å¤‡id(device_id)å”¯ä¸€å…³è”ä¸€ä¸ªè®¾å¤‡ã€‚
+#### å±žæ€§ ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | å±žæ€§å’Œæè¿° |
 |--------------|------------|
-| String | id (Éè±¸id) |
+| String | id (è®¾å¤‡id) |
 
-#### ¹¹Ôìº¯Êý ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ¹¹Ôìº¯ÊýºÍÃèÊö |
+#### æž„é€ å‡½æ•° ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | æž„é€ å‡½æ•°å’Œæè¿° |
 |--------------|------------|
-| [Device](#device) | Device(String id) (·µ»ØÉè±¸ÊµÀý) <br/> ²ÎÊý£ºid-Éè±¸id|
+| [Device](#device) | Device(String id) (è¿”å›žè®¾å¤‡å®žä¾‹) <br/> å‚æ•°ï¼šid-è®¾å¤‡id|
 
-#### ·½·¨ ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ·½·¨ºÍÃèÊö |
+#### æ–¹æ³• ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | æ–¹æ³•å’Œæè¿° |
 |--------------|------------|
-| void | emit (String event[, String data]) (´¥·¢ÊÂ¼þ) <br/> ²ÎÊý: event-Ö§³ÖµÄ·¢ËÍÊÂ¼þÓÐ[CONNECT](#CONNECT) [DISCONNECT](#DISCONNECT) [GET](#GET) [PUT](#PUT)<br/>&#8195;&#8195;&#8195;data-½öÔÚÊÂ¼þÎª[PUT](#PUT)Ê±Ìí¼Ó|
-| void | on (String event, Function cb) (¼àÌýÊÂ¼þ) <br/>²ÎÊý: event-Ö§³ÖµÄ¼àÌýÊÂ¼þÓÐ[CONNECT](#CONNECT) [DISCONNECT](#DISCONNECT) [DATA](#DATA) [TIMEOUT](#TIMEOUT) [ERROR](#ERROR) <br/> &#8195;&#8195;&#8195;cb-¼àÌýÊÂ¼þµÄ»Øµ÷º¯Êý|
+| void | emit (String event[, String data]) (è§¦å‘äº‹ä»¶) <br/> å‚æ•°: event-æ”¯æŒçš„å‘é€äº‹ä»¶æœ‰[CONNECT](#CONNECT) [DISCONNECT](#DISCONNECT) [GET](#GET) [PUT](#PUT)<br/>&#8195;&#8195;&#8195;data-ä»…åœ¨äº‹ä»¶ä¸º[PUT](#PUT)æ—¶æ·»åŠ |
+| void | on (String event, Function cb) (ç›‘å¬äº‹ä»¶) <br/>å‚æ•°: event-æ”¯æŒçš„ç›‘å¬äº‹ä»¶æœ‰[CONNECT](#CONNECT) [DISCONNECT](#DISCONNECT) [DATA](#DATA) [TIMEOUT](#TIMEOUT) [ERROR](#ERROR) <br/> &#8195;&#8195;&#8195;cb-ç›‘å¬äº‹ä»¶çš„å›žè°ƒå‡½æ•°|
 
 ### Class SDKEvent ###
-#### ÊôÐÔ ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ÊôÐÔºÍÃèÊö |
+#### å±žæ€§ ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | å±žæ€§å’Œæè¿° |
 |--------------|------------|
-| const String | <a name='CONNECT'>CONNECT</a> (Á¬½ÓÉè±¸) |
-| const String | <a name='DISCONNECT'>DISCONNECT</a> (¶Ï¿ªÉè±¸Á¬½Ó) |
-| const String | <a name='DATA'>DATA</a> (Éè±¸Êý¾Ý¸üÐÂ) |
-| const String | <a name='GET'>GET</a> (»ñÈ¡Éè±¸Êý¾Ý) |
-| const String | <a name='PUT'>PUT</a> (ÉèÖÃÉè±¸Êý¾Ý) |
-| const String | <a name='READY'>READY</a> (SDK ¾ÍÐ÷£¬¿ÉÒÔÉ¨ÃèÉè±¸) |
-| const String | <a name='STARTSCAN'>STARTSCAN</a> (¿ªÊ¼É¨ÃèÉè±¸) |
-| const String | <a name='CANCELSCAN'>CANCELSCAN</a> (È¡ÏûÉ¨ÃèÉè±¸) |
-| const String | <a name='SCAN'>SCAN</a> (É¨ÃèÉè±¸Íê³É) |
-| const String | <a name='DESTORY'>DESTORY</a> (Ïú»ÙÒ»¸öÁ¬½ÓÊµÀý) |
-| const String | <a name='TIMEOUT'>TIMEOUT</a> (³¬Ê±) |
+| const String | <a name='CONNECT'>CONNECT</a> (è¿žæŽ¥è®¾å¤‡) |
+| const String | <a name='DISCONNECT'>DISCONNECT</a> (æ–­å¼€è®¾å¤‡è¿žæŽ¥) |
+| const String | <a name='DATA'>DATA</a> (è®¾å¤‡æ•°æ®æ›´æ–°) |
+| const String | <a name='GET'>GET</a> (èŽ·å–è®¾å¤‡æ•°æ®) |
+| const String | <a name='PUT'>PUT</a> (è®¾ç½®è®¾å¤‡æ•°æ®) |
+| const String | <a name='READY'>READY</a> (SDK å°±ç»ªï¼Œå¯ä»¥æ‰«æè®¾å¤‡) |
+| const String | <a name='STARTSCAN'>STARTSCAN</a> (å¼€å§‹æ‰«æè®¾å¤‡) |
+| const String | <a name='CANCELSCAN'>CANCELSCAN</a> (å–æ¶ˆæ‰«æè®¾å¤‡) |
+| const String | <a name='SCAN'>SCAN</a> (æ‰«æè®¾å¤‡å®Œæˆ) |
+| const String | <a name='DESTORY'>DESTORY</a> (é”€æ¯ä¸€ä¸ªè¿žæŽ¥å®žä¾‹) |
+| const String | <a name='TIMEOUT'>TIMEOUT</a> (è¶…æ—¶) |
 | const String | <a name='ERROR'>ERROR</a> |
 
 ### <a name='sdkType'>Class SDKType</a> ###
-#### ÊôÐÔ ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ÊôÐÔºÍÃèÊö |
+#### å±žæ€§ ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | å±žæ€§å’Œæè¿° |
 |--------------|------------|
 | const String | WIFI |
 | const String | BLUETOOTH |
 
 ### <a name='xui'>Class XUI</a> ###
-#### ·½·¨ ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ·½·¨ºÍÃèÊö |
+#### æ–¹æ³• ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | æ–¹æ³•å’Œæè¿° |
 |--------------|------------|
 ### <a name='dataStorage'>Class DataStorage</a> ###
-#### ·½·¨ ####
-| ÐÞÊÎ·ûºÍÀàÐÍ | ·½·¨ºÍÃèÊö |
+#### æ–¹æ³• ####
+| ä¿®é¥°ç¬¦å’Œç±»åž‹ | æ–¹æ³•å’Œæè¿° |
 |--------------|------------|
 | Boolean | put(String key, String value) |
 | String | get(String key) |
