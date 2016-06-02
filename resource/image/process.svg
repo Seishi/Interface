@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 process.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st18">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-4);stroke:#4f88bb;stroke-width:0.75}
+		.st2 {fill:#4f88bb;font-family:黑体;font-size:0.666664em}
+		.st3 {font-family:Calibri;font-size:1em}
+		.st4 {marker-end:url(#mrkr4-14);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st6 {font-size:1em}
+		.st7 {fill:none;stroke:none;stroke-width:0.25}
+		.st8 {fill:#5b9bd5;font-family:黑体;font-size:0.666664em}
+		.st9 {visibility:visible}
+		.st10 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st11 {fill:#5b9bd5;stroke:#c8c8c8;stroke-width:0.25}
+		.st12 {fill:#feffff;font-family:黑体;font-size:0.666664em}
+		.st13 {marker-end:url(#mrkr1-179);marker-start:url(#mrkr1-177);stroke:#bdd0e9;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st14 {fill:#bdd0e9;fill-opacity:1;stroke:#bdd0e9;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st15 {fill:none;marker-end:url(#mrkr1-204);stroke:none;stroke-width:0.25}
+		.st16 {fill:#c7c8c8;fill-opacity:1;stroke:#c7c8c8;stroke-opacity:1;stroke-width:0.090252707581227}
+		.st17 {fill:#5b9bd5;font-family:黑体;font-size:0.833336em}
+		.st18 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-4" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#e9eff7" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#f4f7fb" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-14" class="st5" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-177" class="st14" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr1-179" class="st14" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr1-204" class="st16" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-11.08,-11.08) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="流程图" v:index="0"/>
+		<v:layer v:name="连接线" v:index="1"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" v:layerMember="0" transform="translate(104.626,-481.724)">
+			<title>流程</title>
+			<desc>初始化XSDK/添加XSDK监听</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="5.44" y="571.35" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>初始化<tspan class="st3">XSDK</tspan><tspan
+						class="st3">/</tspan>添加<tspan x="18.98" dy="1.331em" class="st3">XSDK</tspan>监听</text>		</g>
+		<g id="shape7-9" v:mID="7" v:groupContext="shape" v:layerMember="1" transform="translate(132.972,-481.724)">
+			<title>动态连接线.7</title>
+			<path d="M7.09 595.28 L7.09 616.42" class="st4"/>
+		</g>
+		<g id="shape6-15" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(104.626,-411.024)">
+			<title>流程.6</title>
+			<desc>扫描设备</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="19.43" y="576.68" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>扫描设备</text>		</g>
+		<g id="shape14-19" v:mID="14" v:groupContext="shape" v:layerMember="1" transform="translate(132.972,-411.024)">
+			<title>动态连接线.14</title>
+			<path d="M7.09 595.28 L7.09 617.34" class="st4"/>
+		</g>
+		<g id="shape13-24" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(104.626,-339.402)">
+			<title>流程.13</title>
+			<desc>连接设备/添加设备监听</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="5.89" y="571.35" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>连接设备<tspan class="st3">/</tspan>添加设<tspan
+						x="23.43" dy="1.331em" class="st6">备监听</tspan></text>		</g>
+		<g id="shape18-30" v:mID="18" v:groupContext="shape" v:layerMember="1" transform="translate(132.972,-339.402)">
+			<title>动态连接线.18</title>
+			<path d="M7.09 595.28 L7.09 616.42" class="st4"/>
+		</g>
+		<g id="shape17-35" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(104.626,-268.701)">
+			<title>流程.17</title>
+			<desc>控制设备/获取设备信息</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="5.89" y="571.35" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>控制设备<tspan class="st3">/</tspan>获取设<tspan
+						x="23.43" dy="1.331em" class="st6">备信息</tspan></text>		</g>
+		<g id="shape41-41" v:mID="41" v:groupContext="shape" transform="translate(81.6929,-240.945)">
+			<title>工作表.41</title>
+			<desc>图1.2.蓝牙连接或WIFI内网连接流程图</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="58.3661" cy="588.272" width="116.74" height="14.0079"/>
+			<rect x="0" y="581.268" width="116.732" height="14.0079" class="st7"/>
+			<text x="4.88" y="585.61" class="st8" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>图<tspan class="st3">1</tspan><tspan
+						class="st3">.</tspan><tspan class="st3">2</tspan><tspan class="st3">.</tspan>蓝牙连接或<tspan class="st3">WIFI</tspan>内网连接<tspan
+						x="46.37" dy="1.331em" class="st6">流程图</tspan></text>		</g>
+		<g id="shape46-50" v:mID="46" v:groupContext="shape" transform="translate(438.976,-70.8661)">
+			<title>工作表.46</title>
+			<desc>图1.3.WIFI公网连接流程图</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="50" cy="589.276" width="100.01" height="12"/>
+			<rect x="0" y="583.276" width="100" height="12" class="st7"/>
+			<text x="4.51" y="591.94" class="st8" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>图<tspan class="st3">1</tspan><tspan
+						class="st3">.</tspan><tspan class="st3">3</tspan><tspan class="st3">.</tspan><tspan class="st3">WIFI</tspan>公网连接流程图</text>		</g>
+		<g id="shape48-58" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(581.102,-517.157)">
+			<title>流程.48</title>
+			<desc>初始化XSDK/添加XSDK监听</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="5.44" y="571.35" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>初始化<tspan class="st3">XSDK</tspan><tspan
+						class="st3">/</tspan>添加<tspan x="18.98" dy="1.331em" class="st3">XSDK</tspan>监听</text>		</g>
+		<g id="shape50-65" v:mID="50" v:groupContext="shape" v:layerMember="1" transform="translate(609.449,-517.157)">
+			<title>动态连接线</title>
+			<path d="M7.09 595.28 L7.09 616.42" class="st4"/>
+		</g>
+		<g id="shape49-70" v:mID="49" v:groupContext="shape" v:layerMember="0" transform="translate(581.102,-446.457)">
+			<title>流程.49</title>
+			<desc>登陆(XSDK连接云平台)</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="5.77" y="571.35" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>登陆<tspan class="st3">(</tspan><tspan
+						class="st3">XSDK</tspan>连接云<tspan x="26.22" dy="1.331em" class="st6">平台</tspan><tspan class="st3">)</tspan></text>		</g>
+		<g id="shape52-78" v:mID="52" v:groupContext="shape" v:layerMember="1" transform="translate(609.449,-446.457)">
+			<title>动态连接线.52</title>
+			<path d="M7.09 595.28 L7.09 715.79" class="st4"/>
+		</g>
+		<g id="shape51-83" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(581.102,-276.378)">
+			<title>流程.51</title>
+			<desc>向XSDK添加设备</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="6.98" y="576.68" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>向<tspan class="st3">XSDK</tspan>添加设备</text>		</g>
+		<g id="shape53-88" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(336.614,-276.378)">
+			<title>流程.53</title>
+			<desc>获取设备序列号扫码二维码等方式</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow53-89" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st9">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st10"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st11"/>
+			<text x="7.43" y="566.29" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>获取设备序列号<tspan
+						x="3.43" dy="1.2em" class="st6">（</tspan>扫码二维码等方<tspan x="27.43" dy="1.298em" class="st6">式</tspan>）</text>		</g>
+		<g id="shape54-96" v:mID="54" v:groupContext="shape" transform="translate(444.524,-345.472)">
+			<title>工作表.54</title>
+			<rect v:rectContext="foreign" x="0" y="538.253" width="88.9039" height="57.0229" class="st7"/>
+			<image x="0" y="538.253" width="88.9039" height="57.0229" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+						iVBORw0KGgoAAAANSUhEUgAAAVcAAADcCAIAAABLU3XgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0
+						Ad5mH3gAAEuzSURBVHhe7Z15vE3V//+513WNF5frGlLhZh4yR4UIGSpEShNSqRBFZS4pTSqhvigVJVOGDBGRzBkuH4XMMmUmn/T5fr6f
+						+vyeZ7+O1f6dcw255957hvX6Yz/WXnvttdfwfr3e77X3Pvtk+q+FhUVkw6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWk
+						w6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWkw6qAhUWkw6pAOuHPP//0SYB///vff/zxx7/+9S9l
+						/p8DHRL+48C740Al2XIihTlqzqW2//3f/yXhvgRQYUDC4Pfff/cevkDbBDWAc737FuEIqwLpBLikBEyDq8CfctDYZFJAGqFdwCF2kQwO
+						+VPdH5xO4RQJbM6VjigNVK05qrSgHIuwhFWBdILjU//im+EVXIV7JKAr9FamcoBo/9tvv507d87NfDz5iRMnDh48uHPnzs2bN69fv37t
+						2rUkdu3adejQIQ5RXoUlGYAEZxldoE4u7VTmAfmUUZoCaq0lf4TAqkD6Qc7Zu+PAx1Gbo2fPnlUgAA//+c9/bt++/csvv3zttde6d+/e
+						sGHDWrVqlS5d+qqrripYsGB8fHzu3LmzZcuWL18+dosVK1ayZMny5cvfcMMNzZo1a9eu3csvv/zJJ5+gEadOnVLlwOgR0sBF/dkuFfDu
+						uDTLIixhVSBdAbfFLniF72X39OnTv/76K2lydAhmHjhwYOLEiS+++GLz5s1he+bMmTOdR9asWc0uiSxZskRFRWnXBxxCILw7mTIhE8jH
+						U089NWnSpA0bNhhR4KLEBbq0CQd8YFUgvGFVIJ1g3D7MJzJ3e1oB/798+fJXXnkFb58nTx4vdzNlio6Ozu4gJibGm5UpU44cOQoVKpSU
+						lFS2bFniAhIVHZQrV+7aa68lQDCF0QhqYFcwklG9enUUYf78+UeOHPG24L//RZJ8whP4byUg7GFVIJ1g7snjbyUB8O3kyZMklixZ0rt3
+						79q1a+fMmVMUhbfGycfGxl599dVIQ9euXYcOHcrSYOHChevWrdu1a9fx48dZLxDSg3PnzqEj5Ozduzc5OXnRokVTp05lLdCtW7fWrVuj
+						DgiHKqfCuLg4ZEW7rCAoM2/ePDWGwMTcnoD/NNWqQNjDqkC6AuYbjkHjadOm3XTTTaznRUgBj40c1K1b9/HHH2ddsG3bNujtHzv4gJoF
+						776Towifc8+cObNz5865c+f279+/Xr16iYmJWlZwrWzZsum6N9xww6BBg44ePYqymBqIXKwKhD2sCgQebtqQxlGTgPwmf8uWLX369CGM
+						h4rwUCRkwV+0aNEWLVqMHTt29+7dFE4RquHywXXdCoIu/Pbbb4jC9OnTURkCAVSA0ENtoD0sRp588smNGzciAZxIiKHTdWm25BitcYuO
+						RejCqkDggf8U800C5rCFkJs2berXrx9sF+uEfPnyNW/eHPIfOnTIc74TljuUTwEqcPmAqO6zoDTNUKtI79+/f8qUKQ899FDx4sWlBVqV
+						IAf33nvvmjVrdBYBAl1APrTLiXSNhPplEeqwKhB4yEOaBTYJaIN7Hzx4cP78+eFYrly5tOYvVarUsGHDWOQ753lIdeLECd1BEOf9oZJX
+						AM71UQQ3Dh48+Prrr9eoUUPNkxagCx06dPj++++9hf77XxYL6hSwgUDYwKpAgHH8+HGF0OD06dNKvP322yVKlIh1IP7XrFnz008/RRrg
+						vJwzidSQ/JLwSIirfuPYWR3QZvl2sHDhwrp169JCVgp58+YlUaxYsWeeeWbfvn3ux5lszf1Oi1CHVYHAA3oYUq1cuRIHy5ofOglVqlQh
+						CEcgjFi4ycmJiII7J5XwUN+Bd/88vLmufNJIg8Tom2++qVevnhqsuKBChQrTp0/nEC3UTUfSdkUQHrAqEGCwthe9YUifPn3w/HL+uNbK
+						lSuz+Nea/OzZs05xD8hx77qZmXrQGJ+FAGkF82yVABQzyuWOC4wWEMWwfeihh4gdUApAAfXFItRhVSBNsHz58mrVqplHAPny5Xv++edZ
+						/8NAQ0g8KuRHLORaBdhILGB4mHq4rwhIG/KzhcwmJDEg59SpU7Cd9JEjR15//fXrrruOXiQkJLAtUqTIZ599xrk0W/VYhDqsCgQew4YN
+						04pasTTL7CVLlripCPfcu4KicaX9j6Ye1GmgXeUDxQtKmzZAcskT2z179tx33316xUBPFp955pkUe2ERirAqkCrIYeK99aYNTO7atave
+						3s+SJQta0L9/fz0jcIqHNj799NOkpCQWOOpgo0aNdu3apUWB5ECBDAmzUvBIjhN9mBHgkMQlRagwIOHNSgkU8KZc4BSfcWYXpFjYwg2r
+						AlcIzEuv3AIF8IcOHapevTr0iIuLY1u2bNk5c+aoQHgYIgxfuXJl8+bN6R0gKGCloHcK4LYEESia8Gcy5DfqwOiRpiTbFFdAnAvMuGlX
+						INNfR8hXwn1dp7gXyrFIEVYFrhAyRN0kx6ZXrFhRrlw5PQuEIffff/+JEyc4RCCAiYeBFRri0ZdXXnlFtzxZGrDq+eyzz8w6QsQ2heEk
+						UFrgdP9MwCkMo3fn74Cz0BFzRXaBu36uSI53xyIlWBVIFbA/LGzRokU5cuTQ40BYMWzYMLECCVAx4wNDF3AJkJDfnj59um4WEhGwHTVq
+						FEfVTR/HDj8NRYEPRUkzhkZEqIQcylMJtQGWWgC1Jcd9Lqf4cJtDaoAqUWsFc5ZFirAqcIXQsz0MET7Ex8fLN0KMcePG6UaAkYBjx44p
+						EeqAYzCWBGEORN2+fXuhQoX00wP6PnToUA4xLKKfSgqMBuXJMa8qATIdmv/LTWboyu5FSEslRmUoSYVoBJW4OS/4CIHFRWBV4AqBCWJk
+						ixcvhgAAFShWrBiK4D3seCTzUo1ZM4c04BtbQ61ffvnl+PHjNWvWZBGkpyH9+vUj/8CBA2wNkyGtWxH8fTgVgqNHj+7du3fjxo0EVlOm
+						TPnwww9Hjhw5fPjwd99997333mPR8fXXX69du3br1q1HjhzxCTcANZBpBlygDaYZFheBVYErBNY8e/bsvHnz6kc4ZcuWnT9/PvnmrWG8
+						H+YusVBOGIAoAMdLQjE8XUMaKlasmDt3bj1HHDFihFPQC7qvYF67OovMXbt2LViwAJ537969RYsWtWrViouLQ0oQFEVVgARjq2pjYmKI
+						OPLly8eAFy5cuHTp0g0bNnz44YfRiG+//Rb5kEIBghFzOSSAWQin8U8jWBW4QuCXzPe8SpUqtXz5cjKNL3JbHkaPLXp3QhZQi44oLTID
+						cQ/iNWrUSK9IgDFjxij4N+UBp2/btm3u3LkdO3aEwFdddZXU04BdaC/OC6QF7brL64spOkp+gQIFbr755meeeWbs2LFEKFqsCYy8DQcu
+						CasCl4AIjN3LB7IL9uzZY34djARs2LCBQ2Gz/v+7YEBOnTrVtGlTDUjBggURAnNo5cqVBAj169cvVKiQCgARWOksWbIQAsTHx19zzTVV
+						q1Zt3LjxXXfd1a5du7vvvluJtm3btmzZEqGpUaNGiRIliAiyZs3qlgwS7CqHelCEwYMHf//99+4YxF+gpc7sGpmgPMXI1G7kwKrAJYBN
+						aFnLVgZ0+PDh66+/nvA1V65c2bJlQwIwI1yQUzziwJjAMYAyQj/R8rrrrpsxY8Zrr71Wu3ZtvT2hB6gQni3hPVF9lSpVWrVq1a9fv4kT
+						Jy5btuzAgQP6zJE7gnCnGWTiC8pwIcIKzho6dOg999zDesT9nUUBOWB2atasiRxs3LhRNXC6GA7bL051KX7kwKrAJSDmSwiwUZwePkqm
+						xkp19uzZTikPMJ0IDD6NawWbN29mxa7BAe4vpkoxGzRo0L9///Hjx//4449uhrsrEciRr/YZUvLJ9HkogC7PmjWrZ8+exAvFihUjKOCK
+						5tKEGCxDvv76a60UzFMMRIFplbhzLff9i0ibR6sCl4AxVj35Y/GJYWHQBKXvvPOO8o3RmLAzciB9PHPmjBKs/FnzMzis1RmovHnzJiQk
+						tGjRgrhAbxm6yQ+ZEVbiCGXCRkZS5GdLmhzKULPkgF0Dchhtrsv469ICVxk3bhxLifz58ysiMHJABDdhwgQux7nU4D3BBV3CuxNJsCpw
+						CegGGH6D7eTJkzFrhbW9e/cmx9A+0mJIA/wnzHHz8N1332V8tGjv0aPHpk2bDLV0Ax+GB5ZssJpqVbNyaM/OnTvff//9+vXrazHCVq91
+						JSUlffTRR6dPn6a8RIfC5kQQgUJgVeDSwFYwFFb++DdFm61bt8aGFGEaA3L/+U/kwMgfA8IoiZCs+WFdXFxcnz59OITHZnDc7FIxBta7
+						7wwjIAeQcBPbDRUA0NitvORwlEscP35cOQi0Mr/99tunn35aEpA7d26JeO3atWfOnOluPKC8diMNVgUuDSyYWADmYz2gfPny27ZtI5/Y
+						kq20QM5QIUNEwTwsZKufTkAn1gUaq5IlSyYnJ3vKOfDxugLUhfPeHRfIv0xaeuTBVS21MRHmXOrh6OHDh1nNKS5gmcA2Z86cTZs2ZQVh
+						3vJEFFRPiu0JY1gVuATk4YkhsRsCAcKB8ePHm3wB68HUsH7vfoRBb0ZKE4G88S233KKfGAwZMoRd8/YkNGOsxEzGzX/QOORNOVBh744D
+						dmE4W2qAruItIJPa3ARWjgpo7XbkyJG+ffvqnoVeQEAXXnjhBbUZ7dC1LlN9wgZWBf6CiQ9xWUrLZPfs2UNwq0jykUceUb5T0OKCQCsZ
+						LgatcuXK8rEZPmhaI5AgPHnooYfMa07Zs2e/6aabvvrqKxVDOIAxBoU5gHMV8YUfrAp4AdvlB4Ds1Ti3Tp06KZK8/vrrcRrYhylpcSGw
+						aNJTw/j4eH3LnEHLQBZptQIMq2fPnl23bl3zSiILBP0OAmAAWtzBfAkHW6ML4QerAl64ia2JVxA7Z84cTCR37tyYywcffECOUQeLi+Ox
+						xx4TwV599VXlZDiRoLeZaNYOqNLLL79cpkwZGqk/bmzWrBlCTyxAAW2BabZugoQfrAr8BWMfqADzzS7bBg0aOJacqV27dtiNWd9aXBLj
+						xo3T88Lbb789GBwpE6q7BmgBqwNFfGwXLFjQqFEjVF53DRMSEr799lsdMrd7ab8JIsIPVgV8IeOQ6mPHMc5/h2bNmnXr1q3kyD+ojMVF
+						QMS0evXqAgUKMIBJSUnmAV5GwTh2A0Th1KlTivuOHDnStWtXZjkqKorpJvQbNWqUTjHvhoexA7Aq4IVxVu6vg1StWtWJAzI9++yz5OhX
+						w0iAiRosLgKoVaJECfFqx44d5Lhv4Kc/3Nqtt4ZIqEma/ZkzZxYuXFgzni1bNhYLWv2ZNaCxjTCDVQEvjIGa1wHffvttGUSxYsVOnDiB
+						0XAI/st7WFwSjFWtWrV0+00xdgbeHTSxgFuJ0ALTpP3791Nm3bp11atXNy8d9+jRQwUoyYnhOvVWBf4CVmtsggj2hhtuiHU+evHCCy+Q
+						YyJDTMEKwSUh1rVo0YJAADpNnjwZV+z2xhkFZtmnJWbBLwewa9euevXqMfXoV+bMmTt06KAY0P2GSJgh/FWAWUfFAQlv1nlAZqzB5LMr
+						vScTq8V2sWBWtvAfdVAxbSnmnGFxQWiImjZtmiNHDpT0/fffZ+jc3AtC0ELNPo1v166dXjoGTz31lPumgLpG7KBdaURII2xVgJVeilzF
+						R5Hv48yZeHIMz8Edd9whC3j66ac5Sm1ybhTzOdfiImjVqpWGUQ9ZNcJBC5rH5EoF0P3OnTtnz569SJEitL9r166//vor+fqWjG4eYxXh
+						YQxhHgtoOiEwYM58XgUx0MST+N35phCLQyaeaDB//vx6NGBUAJhVg8VFwAhDG70yEBcXp782DP6hQwgwBkCalQLLAdqvjywPHjxYKmZe
+						NAYYhhIhjfBfEWB8/i6IHGgPmG93AS0Re/XqJRVo27at8t1lwmPi0xpaY8+ZM6dUqVI333yzfn8V/G/dMMvMNSCNZpF44oknsAR9Mem1
+						114jn9UBxfTPVBQwhhG6CFsV8Hc70nhNLbtMHiqAh9euHh0DZrd48eIxMTFM/KRJkzikB0WyDxIqRsLi4oDz7oEyD1+CHEw0IKHgH9Fv
+						3LixfkUSHR390Ucfkak7hbIoEqEeHoZ/LCDmA00YzFe+AZbqzKb3nzZnzZrFfIM6deocOXKEo8rnRBIya1mJxUVgOH/69GlCaA2jWxSC
+						HLodePToUXwArqJWrVpEBKBEiRLfffedypg+yrRCF+GsAiK2e4ZkhUwqS9bjx48fPnx4z549P/zww1oHCxcu/Oabb9q3b69H3AMGDKC8
+						8Qy6LyBFCCFrzlgYzSURioNGm2U/O3bsSHCAYdx4442HDh1C3dSjMDCG8I8FhAMHDixatOiDDz545plnHnjggfr161eoUKFkyZJFihTR
+						A20Q5fwNBglysmbNSnlORAKYZm3Z1U0Be2vgktAtAPMontFDRqWnIQFaq1kmkNGSECchw8BCunTpQo8EDoVQv1JEyKiAIZ5u4yvNHJi0
+						FvkmzaGNGzeOGTOme/fuDRo0SExMhOREdA7fvYRnsac3Q5QDlGBbqVKlUFnHWqQFRG9gzAD/P3XqVGxDQvD++++bo4oQQxehGgtotebd
+						cXb1FJDMr7/+umfPnlWrVoX5zJYA1aE38wftScD/7Nmzx8fHX3311eXKlaNw+fLlifSKFi2aI0eOmJiYe++9V7U51VtEHNyeRgnAKgDT
+						wpzi4uIwmJUrV5IZ6hIAQkYFmAw8vHuRD/N1C4cJY3rWr1/fu3fvggULMkn61pXnZs55558rV64qVaq0bNly4MCBb7/9NqK+evXqvXv3
+						njx5ktgVBaFydJ3AIX/+/JTXz4fcFmARaWD2FepjdVoUAGymevXqMipcBfnmUOgi9GIB5sZNzp9//pnYzExM3rx5tc7H5+Pnb7vttv79
+						+8+dO/fgwYM49ov4ds33fffdp3r0r5vuC1lEGph9YzB4GpyEnBDBJtEiDgaHERLvRF4SIaMCZnlmArAVK1b07dsXqou3BGlasBHV33//
+						/dOmTdNrf4C5RLBFaaYTSMLdTxBULSrAioD1wuTJkykQxh+WsLg4ILbH2/z/bgAj0e0nvVeGp7nmmmt2797tPRyyCKVYAE4SvTM9ycnJ
+						Xbp00WMbvc4BUIHWrVvPmDHD/SNw5kzRvnY5172mEBTvAYoRO6g26gl1gbdIDYzXQQh8Qki8yLFjx6699lqZSp8+fWwskE7Qi1wE9l27
+						dtVfhuuLoKBOnTqjRo1iaUAB5kMe/syZM0bIteYn352DOgCfCW7fvj3VZs+efcGCBZRhvr0HLCIMxnNgMwoBSMh+MBu2Y8aMwVSIHBMT
+						E817RCGKkFEB6D148GDd9tfDPLSgZs2aRP579uxRGaiueTIOX5OntMAhf+WmjOSjZcuWjrBkWrhwIfnGFCwiEJiKj5PAHmQnJDiK+SkU
+						feKJJ7wlQhMZqQJ4WkNXH4ioCtQBWquPf2XOnDlPnjyowA033DBz5kwfhqcGTC3bu+66S18WmTJlig0ELAA2hhYA+Q+ZHDbJdtmyZdhk
+						dHR0zpw5lyxZQg7FzII0+H86ZZBhKuB2s4wsJBRY/EsCzLd9Hn300WzZssXExOgpYKFChSZMmKBDFxKRKwYrAn1tauTIkTYQiGTgA6C0
+						TNEHmKu04PDhw/rpMSBBjvniSGi5kAxTAY0jkMQqbcAEsJ01a1blypXj4+M10KBfv35ifhrdve/Vq5divKeffprdgKuMRWgBA8AZABLY
+						pLhtbhyC9evX58qVK2vWrHFxcaRltyCEAgGQwfcFcP7G5Sqh4WO4hw4dKucPcuTIcdttt23ZsoVDZg6OHj2qRECglnz00Ud60ejOO+8k
+						U4GfRSQjxXAAoAvYDM7f/GNFly5dyDdmaUKG4EdGqoAkVmm4zYAyrKQPHjzIgDKskJ9Vet68efWZFzj522+/pZF/VgS4bt06/bKgYsWK
+						XC5UZtEi4MAbGf8ETFCgcMAd8E+bNi137txRUVFFixbdv38/JiqzUfigMkGOjFQBM0bu4f75559r1KiBBBQrVoxt2bJlf/rpJwhpZgU5
+						MOUDOMqS/GPHjum6LENWrVqlQxYRCOxBkM8Hcj96TGj+ZAXCnzlzplq1atgMHuvll18m0ywH0shjBRwZrwKMo0YWbs+bNw9BxRuz1mJ7
+						33336btOzIFhPum0c9FU3q5dO2Y0S5YsAwYM8OZaRCQwM6zObWwmTdyK9WIteiLw3nvvYTOErmXKlEE4CGyNx3KKBzsyeEWghJbfX3zx
+						hf5MGv4TYrEK0FHz6IWhVyTmVgQlUg/VyTS/8cYbWbNmZVHAei+A9VuEFrQEkDPHDHbv3j137txRo0b169evb9++zz33HE7ipZde+uST
+						T1hFJicnJyYm6gV2diE/hhQqEgDSQwWMgroDJPeNN0Z5woQJcXFxuj+fJ0+e0aNH65CCK/dLwWkH1P3s2bMHDhzInz8/SgQWLFhAm0Nr
+						Ri3+LqT1cF7BqYnnWZzOmDEDwt988836DDH2qZvHQK6CRM6cOa+77rpChQqRxnt17tyZcw8fPmwUxKnsr9Ur+cHmXdJcBeCP6T/Amesm
+						v8YI1rGsWrx4McOn3wJee+21qCmHzB9Iu/Ui7aBVCaDB+n52wYIFW7dubVUg7IFBan6xN5nlTz/91LNnz5tuuknuHeh1VQHy4yG8Oy5I
+						FMqVK7dv3z6n4r+Y76a9LhFUSKcVgQmugAkNNDSTJk0iCtA41q1bd8OGDWS6tePEiRNKpCnUGL2GoP8jAElJSVYFIgHy//JPTPddd90l
+						A4Dt+H8kgLVqnTp1OnXq1KdPn2HDho0cOZLlQI8ePdq3b1+pUiWjEXrDvXDhwu+99x5V4fNMGIszo35yIlcF4NipU6cMlxhorfCXLVtG
+						FMDA5ciRo0KFCooCWP9rlW6eC2p60hRqm3kZiWlu3ry5/kvDSkAYQwYmFZAngK633norxCYQKFWqFIHhrFmzWCfKLWGcbAEGrPIEs1u2
+						bHnxxRfxGY4UZIpxgP3oR8fYj4k0gSw/qJDmKmBcugE5CvK3bt2aK1eu2NhYFl0sxZEJ2A7/FSwwdmn0guCFYBaELOrY6kNGVgXCHgiB
+						cTMQGwuE1f369cMHmB+qAUWF3h3HjI1tK4HZDBkypEiRIkQQGDZyQJA7ZsyYXbt2qZhqCEJzSo9YwC2EZriPHDmi8IkoAAnYvHmzVBmg
+						Ee7bgVLcdANXN0+DaS1z5j9tQTiRFlcM9xRjhHJRBuyePHkSF6X4FM8kq9BRIGmQ5wDEs23atNFNLr38TjSRnJxMPZQUVDJ4kB4qYHys
+						GV+GrGnTpkQBLLpYcS1YsIBMeX53vGRWBJqANIWui/qokTRGOe75Nkgx0yIUYXyP8U+iPZGgMVcD4/wBzokCbN3GYBze+PHjK1asiAQI
+						ZcuWJUeH3JUECdJDBYwz10AjqwMHDmRosmfPni1bNn25TZNhBpSRMnOQDhJgIJ3WPNGkC0lAivkWoQvNOLPvz3zMwHhv5p2Smn23DWgZ
+						qxyEQHaOF3nyySdxdXrQgLX37dtXQW76PPm+fKTTfQFGxIza//zP/zAoDE1MTMzgwYP1diBguIHSFhbhga+++kqvEuiNuFatWpnniCZw
+						ULDsL0DphvSIBUz30IJt27YlJSVp1dS5c+dDhw6Rr+DKSoBF+AEv+MsvvzRr1gyDz5EjR3R0dMOGDdetW4fNSwXcC+GMihHSQwWIAhQj
+						4fbNk9gqVaqsWbNGBYimiKlQAXeUZWERBsCqEQKcXL9+/WT5hMDFixfXb9XMLTNg7i+mP9JcBdwiN3r0aI1CVFTU3LlzyYH87oEwd2gs
+						LMID5qYYGDFihJ4ggsTExMWLF2P8uu0lgpxy/hA9/ZEesYC4vX79evPx5t69e+uQWRq5B8vCIsxAOKDIf+LEiSyH0YLMzhc0N27cCPP1
+						JpK5QZb+SA8VkM7dc889etG6YsWKeiAP87UEQA6liOZmrIVFeAAXiAQApVkafPfddwULFoyOjs6RI0dCQsI333zDIRYOGfjgID1UAIYj
+						gVmzZs2dO3dsbOyMGTOUabpt7gtq+WBhEU4wL6HJ4PF8y5cv148UQbFixfSvp0B/upH+SHMVQAXx+Q0bNlQg0K5dOzJ1L0DkZ1AUAihk
+						srAIJ8iqMXI9KcPUFRf8+OOPcef/U6906dI7d+503yBLZwRSBYwnN35e9B4zZgxdJRBgOaR3qhX/W1hELCDL2rVro6KiWBfAjgYNGuju
+						AJQxT8rMzbK0jpEDpgIivJ72Se2UefTo0bp16+rzIQMGDKBjGah5FhbBgwMHDsyaNQsh0IODTp06wRcY5H6PABg2pR0CpgJy72zRLYmZ
+						Hg2MGzeOHhL5FCxYUH80Yn6baWERsTAOf9iwYRBEbvKVV16B8+aQuV8mF5t2CJgKqMWm3SgZTT916lTNmjXpXnR0dN++fXWIMmndKwuL
+						IAfOUgE/jrNLly4xMTFEBGyJDsiUpzRsSusVdMBUQAJm2q37ohMnTkQCYmNjixcvvnPnTnODxCliYRG5EAsU9qMIVatW1Wv1NWrU2L59
+						O7Q3zwvMI4a0QyDvDgJUQKsaRIF+Nm7cmI6Bp556ikypgL0vYGEhFTC3/ZYvX6536qKiotq0aUMOkYLKmAVC2iHAKkCLWdiob/Pmzcud
+						O3e2bNkKFSqkrwmqgOm5hUUkQ3G++ZDBhx9+yKIAvqAFM2fOJAd/qZtrae04A6kCht4KB7p27RrtfKq1WbNm7GqxoDLmEYiFRSRD63/k
+						QA8C7rvvPvjCCvrqq6/Wx85gSlrfFAABvi8gVQMsZgoXLqxnoUuXLiW2kZ7RJdLp0DELi2AGTtEd6sMIuANHSpUqBWWICNq3b08ByJIO
+						PzEKmArI1dNoBQJTpkzRU9CqVavqTaF0eOxpYREqgCluFYA+uH2E4IMPPoiKiiIciI+PX7x4MYdCLBZQr3Tb8/7779fbkYMGDVKAoLWA
+						xMLCIsJh+CKQhhoAzt99990QBzRp0oRdDqX1rbQA3x0EtJvlQFJSUnR0NIHNt99+q3zFCEQENiiwsDBw1OAvOQArVqwgjlYoTUxNTlrf
+						RwvwikDbuXPnxsTE0Ify5cubp52G/D59trCIWEgCgHffITxMee6555xowLOgNvfa0g4BjgUUuvTs2VN9ePTRR1n/kOPTVQsLCyBeAO/+
+						efzwww/58+ePcv74TOFAmiLAKqC7gzVq1MiSJQvhgD4lgLapn9pKFywsLAwcKfBAu5Bo0KBBSEDmzJnr1aunH+CkHQKmAnBbNzMPHz6c
+						J08eJCBv3rx65mnWAlovmK5aWEQs3JwHpD33Bp2f2OguwK5duwgHJAR6WJB2CJgKiOoIwdSpU2k6scBtt92WDksaC4twgh4KoAVsu3fv
+						rk8SNW7cmEN6+iaNkIK4dSQ1CGQsAOjD0KFDpQKPPvqonL+FhcVlQt5UVPruu++yZctGWF2wYMHvv/+efPOwQMwKFL8CeV+AdtOs1q1b
+						owI0feTIkd4DFhYWlwe5d1RAclC/fn29ht+rVy929T/aHApSFZB60b6kpCR9R8m8KWBhYXH5EP/F8FmzZiEBWbNmLV269MmTJ90/w4Fu
+						bAOCQN4XQAhOnDiRPXt21CsxMdH8H5uFhcVlAvKbcODs2bNQneUAPhXP+uWXX5J/7vz/puvnhgFBwFQAlaJxycnJuilw/fXX2+8IWFj8
+						XRhuowJwClF47LHH4BTo2rUr+eaOewBfKw6YCiBatHvSpElSgTvuuINMcnTUwsLicmDu/4k7v/76KytrCJU5c+YKFSrs37+fTLMWCBS/
+						Anl3EN0yn1Ls3LkzOVYFLCz+LvSLGy0N2LIuKF68uGi1ZMkSDpFDPgndQUg9AqYCClT07nB0dPSgQYNQLCNsFhYWlwkYbtwnQgDnu3fv
+						rk919O/fH+aTSYEAkitgKqA2aQ0TFRVFUEBDA3gb08IicqD7f0ALbX10AGbdfvvt7jfxFBGkHgFTATXo7rvvjomJYQ0zfvx4k2lhYXGZ
+						MI5T3JFz3bp1q14iTEhI+Pnnn41GBN2KQC279dZb9fnEuXPnsmtVwMLib0G0N3G0dknXrl1b//Q5b948yC/+GzlIJQKsArVq1cqePTtt
+						1StDgdIqC4sIgaG9CIUflSt94oknoFV0dPSQIUPYhVnm3kHqEWAVqFatmmKBZcuWsRvAR5oWFpEAhQBu93nu3DmEYNSoUdAqZ86c+tdv
+						6Ca9CAgCrAI1atSIjY2luUuXLmXXqoCFxd+CCQHYiue///470rBkyRJ9g6xKlSpOfOD5QqHnhEAgYCogsHqRCujBZgDlysIiciAt0E+J
+						ITy7e/fuLVGiBMwqXLjwsWPH9E5BoBAwFaCtbG+99VYamjVr1vnz57NrVcDCIpVAAv744w8igsqVK4tcuFjdFAjUrYGAqYAa1KJFCxoa
+						HR2tXz5IGiwsLK4YUgESjRo1ypw5c0xMzBdffGEOKZFKBDgWuPvuu7M4/8T+6aefmkwLC4srhlGBTp06wSyE4O2333bnpx4BUwHd1ezY
+						saNecho+fDhNtCsCC4tUwrB9wIABMAv07NmT3X/961+BehIfyFjg//7v/3r16qWG9uvXj0z7jMDCIpWQCkCukSNHilwPPvgg+cGoAoCG
+						jhgxglaydOnQoYNydMjCwuLKYFRg0qRJ+tc/1t3kB5BcgVQB2jpnzhzWLbS1Xr16ytEhCwuLK4NUgO3cuXP1y8JWrVqxG4wqoIauXr0a
+						FciSJUvp0qVZI1gVsLBIJaQCJL7++mupQPPmzX///fdgfHcQIE7Hjx/Pnz8/QpCYmLhp0yYypQ4qYGFh8XdhVGD58uX66FDNmjUDu9YO
+						mArQLN2r0LsN2bJl088KrQpYWKQGPioQFRVVrVo1PYMPFLMCpgI0S08E7r33XlQAvPHGG+xaFbCwSA2MCixbtiwmJiY6OrpKlSru/NQj
+						kCsCLVT030Q0V88zrApYWKQGhu2LFi3SXxXVqlWLXfxuoJgVSBUA586dW7BgASpA6MLq5bfffrMqYGGRGhgVmDFjRvbs2WGW/rYwSJ8R
+						sKVlhw8fTkxMRAgSEhI2b95sVcDCIjUwKjB27Fh9vKN9+/bsBqMKALUV3H777bQ1c+bMI0aMsCpgYZEaGBV45ZVXWA7ArG7durEbqBcH
+						QSBVQPE/iYEDBxK30Nx7773XqoCFRWpgVOD555/Xj3RI/Oc//wnG9wXMB5KRqKVLl0oFihYtunfvXvVBTxD0B0yB/UaChUW4AgkQSD/0
+						0EN6g5ilgR7JKT/1CGQsIJ6fOXMGqpcvX57m0ujPP/9ch8T/wD7ntLAIbzgK4AHp5s2b677AtGnT4FGQrghOnTrF9tdff2XbtWtXmgv0
+						y4d//vOfxv8HsPUWFuENrwb8+Sf0qVixolRg5cqV5CjEDggCpgI0C30y9y3nz58fGxsbHR1dqFChLVu2kGOWMQoKLCwsLglHATw4ePBg
+						/vz5WWjHxcWxyvYeDhACpgLivwJ+dOvs2bM1atTI7PyPwmuvveYU8R61nx6xsLhMeDXA+Z0ePhU2VahQQeE2CFQ4EMhYQAndHQADBw6k
+						0QhB3bp1z5w5Q477L9YsLCwuCUkAGD16NGwC7du3x5vKoWqbegTyvgCLf7OlfevXry9SpAgxTK5cuaZMmfLvf//baJiFhcXlwKsBf/7Z
+						sWNHqcCbb75JfmAdaiBVwIT6hANqZevWrfWE84knnjjpgBgmUAJmYRH28GrAn3/eeOON8Ag26QPEgXWoAVMBc8/P3CCE8+vWrdOtgcKF
+						C69atQr+Hz9+XEcBfaNwAG91WgQzmG7m2seJYSTelMV5EDUzViT0WI0R27FjR0JCAjxKTEzcs2cPRwN7iz2QsYAA1dUHcOrUqQYNGkgI
+						unTpgoCdcKCjALMAprxFGEMqQOLIkSPjxo37+OOPlc8S0txLspATFSOgkkZm0qRJ+hPgevXqufkfKOKkiQrQE9O+mTNn6iFnXFzcmjVr
+						ELZffvmFtYO7A1YLIgHMryb6pZde0hOv2bNnk2+fGblh1stKnD59mm3nzp1hENCnvfXGDSNp4u5UImAqQKNplnfHaaiaSKbCgZiYmPvu
+						u49iLArwBkQ77teHKGZVILwhFSCh79CwxH3zzTdlyjYWMDAskDjCFxZNZcqUYcRiY2MXLVpEJsMl7gSKMoGMBXzaZFTtq6++og85c+Zk
+						+80335w9exaFQwtImDIWYQ+jAr17946Pj8ceXnzxRXYx6MDe8Q51wAvGChUQ1Ymm9fOBihUrQhw51+C9L0DT3WsBQW8KNG7cmG5ER0fX
+						qVPn6NGj5LAuQOTojBWCCIFUAMITAugFmOeee45882q5haBn7UAh0hNPPMFYgUceeYRdKaZUIFDcCZgKMMGAZiFg7sZpjgkB8ufPX7hw
+						YTozYsQIJE23CU+dOoXyIXucq/IW4QqpAPbw3nvv6V7X0KFDyccZ2FjADUMfEtu3b9cP81gO6B+AFSCwZTyVTj0CpgIp3uNRprRNf15G
+						Z4oUKfKPf/wD8jP9x44dQwtIB+o+h0XQQipA4pVXXsESsmTJ8tRTTwXKjsMJZqAYnKlTp+oRW6lSpUzQpEELIGUCuSK4ECRauP0yZcrk
+						ypWLLjVr1oxwgKUBHfv111+PHz++f/9+Shop4RQlDMgBjI7gXyDDoeaRoBcTJkx4+eWXDx48qF3lmwIGYaB9F58L018S2ID627dv35iY
+						mKioqIEDB+pcqwVuiAV4R7ZNmjTRpzpeeuklvSlk4iaG1AxvKpEeKsDyRkHOp59+Sn/y5s2LEQwfPpwceAK0NPjxxx/FE3+rClRv0xSG
+						5MuWLcuTJw9W3qFDB+zbLPMAZfx7FzZQ7zy26UyituQz+9iAkfiuXbvqmRFBAbummAXQKDEmbFetWgVZoExcXBxGRQ4DJRUgEcBBSw8V
+						AOoVPezZsye9AvBk5cqV8J8ogPxDhw6dOXNGTxCNahgEsMNpBxpJN2n/J598Qgcx9NatW5PPekcFDEKiO38X9N0Nj5GelwDGBJVHDTWt
+						bdq0YXxwcWPHjmXXBgJuSAUUND366KMOVzK1bNmSIdVRjWFgTSg9VEDtVjxDN8qXL6/3iCpVqgT54TxCcPLkSRKHDx9mdaBbhuyq5xeC
+						sbMgAY2hwdj0W2+9VaBAAXxdp06dyJeVs3W3Nqhannp4ZsLl/A2YenwXE4q+69kwZWrVqsXsEyvp6bfMw8JAA7J+/XqsiBU0cjlt2jQd
+						8llCBmro0kMFMAJvynGMa9euJcLJnTs3ptC2bVusBPLv3buXYseOHTt69ChbaQHeA9W4kBaQf6FDGQLRgATrXo+AZ8okFSCfyaPjknnB
+						Q5rwEgJ/IHz0mhAPide0kkD3ixUrxuDkzJlzz549GjErBAYaEEjx+OOPy4oaNmxIyIwJ4RdVxkRPoaQCRsCw+wMHDpAYMmSI/n0VDBw4
+						kDDh3Llz0B45wFDoMxYjLTh9+jRawKAEP2dooUeW/vjj9ddfp18sebp06UI+TKBH9EtCoGn2aIAD59QQBt1JsRf0FP5rEuk7YH6Z6Hnz
+						5skBEAkyrbINHxcXydCLACyWr7rqKr1VMXHiRHIYT40SA66wOoBIp/sCADJLw9SZxx57jB4WLFiQ7bBhw8jZt28fnMdW4AymY4RABsTa
+						EqPxiauDCjSMGaJ3s2bNYv7wdag4vaYXdEFCQAfpSDD34u/CRwXYpXd4LaZMk0jHBUSBGezTp4/Wgx07dvSeY+ECQ4SRPPLII1mzZo2N
+						jb3pppvY1SF5fuRAQUEApTP97guYdx4xCLbQo3Xr1lgDNoFz0CMDYgGH+x7yy3TEH0AmadwpQ0CFQcgiqQAJ/askXatRo8Yvv/xCm/Wi
+						JF0gMCaBEIRNDOxWARLYKDPrjgKQA9KMAAnm7vbbb5cKvPrqqzrRBgJuMIArVqzAhQBG6aOPPlImWwSCrVkOYFdKpB7pFwv4g8CmZMmS
+						WbJkQfayZ8/+5Zdf0kOWDOQjBxgN2L17NwaEVSEEWJXUgXyGAFnR6KQIrFMGKlMLIFKskxyITfuZqo0bN6JrdCpv3rwbNmzA9I84UOMh
+						BpBjlJyl2FTt6hBwH8pYqGHeHRfIZDqYF3qH2NFTJgj+03G2TBk5O3bs0L/X5cqVa+nSpeRzYtgIYoqgdylOn9E+RJOtuM24sduyZUuG
+						KCoqqk6dOgF3+ykiw1QADojtpUqVos85cuSg21OnTuXQ/v378ZY///wzR9nFVkhgQ8AtBBCJGhg1LRYwQZHKqd4XHst1SKWEP7zl/OBw
+						8IJqwiFmiKmiDTSG4E0WX6FCBWn55MmTaRiZQM2GJEpIyGQl3uoccCGfnCAHDcaI6Qs9EtuZI6aM3YMHD9J9phIppyQRn9a6qD8jxlFG
+						TGOoqgRnsD3w7ocyvD3xg7RPEiC7ZUVMevTo0fhFRgkvsnDhQnIYTLZpioyMBYRFixYlJCRoXYCLmDBhApTGOGALW2IB2C7fIvMSxCuB
+						XXlXxlRyYKKmtANX4VoiP6avJtFOLJujXbp0kbl369aNkvhDGk8xeiSeANpMmhq0xlG1QhCqAE3CUr07LtBy2q8QQNOhrmmX/uoQQkBh
+						fTYLPPnkk+yiFIR+jABlnMr+gsMUD7z7IQ46wgAa+PRLQRPm9NNPP11zzTVmiCjJUYUDaYqMVAE4wBY/wEJaT49gTmxs7JgxY2CO56XC
+						gwchNrbCrsN9780CQzmF2SYfa6NOgPEpRmB8GUREgatoAnRpfzgmlwI4BUPndNGeCqkZcBUup5YAtUGmz3WnT59OdxD1ypUrY+jkm+Yp
+						7bTacy5bMqGBvxb4QO3x7qQ7aJvP6GlwTAhAX5gO6TV9RJSZBXI4RA5Dh9wj9Mg9U7x27Vp1nGK6aaI5cndQ9Xt3QhzqC/CfQWwJO1fY
+						++CDD2I2jA90IDRgTLA68rVNO2SYCkjhjN0vWbKkQIEC9J9RYHXwwgsviPxaNRw6dEiEAZiUoF0sCYhaJhNgWzJK0qIfRonNYbIpAjNN
+						ETRABk0lVCVbBySoXCDNpVW/TH/v3r0SdZY5LArooNMoDyhJVaY29+kYBF2+kOnLjLw7GQqagYEyOOgdzTbjbzoIGAQK7NixA5nAyjnr
+						lltuQRYZk2bNmrG7fft2TqQeVJLy1MMs0H3Dk3BSAX/QcbaMDF1my0h+/PHHeMF8+fIxRO+++66KQRAGUOm0Q0bGAhICaKYRgeoVK1aU
+						CrDt3LkzpMKqFDTKwoCMDLPzsN+xvxQBtVKEtxY/eE/zg/fw/w81QC0xIMe0h0716NGDXoB77rmH9lOAE9UAU5JMEuYQCWkB/PF3GkEC
+						PDZ2ydTQWrUZOJ32gl26I3WjJAnmd/HixQhiTExM5syZp02bxtRTEqVgoNgyCBTjRIRAMRH8Dw8VSHEelYlh4+EYAdIrVqwoXry4DKZD
+						hw6Mm0ihGNZzTloiI1UAc5cQMPfa4sCbN2/OQGTPnh2LKVOmzOrVqzkkE5F5YVsyPswI6yEH6KhjhF5AJ0ABwK4KXASq1h86qjpVm2o2
+						OUqYGrBpppB87L5QoUL0pWDBgiwQoA3FVIbCOtGdMB3RJRAOtABTCBI5wBxpDE1immghTaUjzIva7AMy6a/uBSDu2HqTJk1wdMQCrVq1
+						4kQmmqmXUgDJvaqici7BhS6+PgoV+EwfncL5YyGM5+7du0nQaxIMC6ZCLFy6dOldu3apMAKRPjqYYSog5jMW0kIGS7POoOhHFDgNjCYh
+						IeH1118Xr8QiTAemkcBixB/BsSIPHLvyhutKK99b7gJQmQtB9ahOrq4GkM+JtEHNUAEOQWDSmP6dd96pe4Ss98iE26rKnOXU7YHJoZum
+						p2wZJfnGDNcCtUoDpb6rteSYTOUrh6Ng586dnDt27FgGgdkEc+bMgQYaQ6aeGhgoKQtnkYlAUA+H5AxDHe6Jg9LMpjpLIECavjO53bp1
+						Y3z0SuW8efM4SmF0UGchkUqkHTIyFkgR0gK9YqzPrYG2bdvu2bMHIgGsBLIxUrJCxpEERgPHMCNySLAF5JODXRp4zDNAoH4qNHbvVO9J
+						6KYOraIZa9asofHx8fFsCQdoJHNPBISoIf8oIEbvVJYC1HiHWR7V4FyFBholf2BtBlibgfewH7xFHXizXCCTazHaCmHUtRRBq+gsbp8W
+						UpipYUs+Z5HP0eXLl+fJk0fLXT0awNdRBjKwHmYoKMa5qs0fUIWW+DeSrqXY8gvB08+U4D182dCoAu/552GOYsA6qhxmWSZNfxlGhpTg
+						SEOEMZD/xhtvMDL6+NKAAQOck9IbQacCTDkDRwLaaKWkuPraa68dPXq0zAIiwZ/9+/czmgyrbAj7kxzATwzLYaUHHlNywFHg3Uk1aABX
+						JAHbaYZbekhzXQpAYN311dfWMA5YsXHjRrrAKTQVLVBt/lBTpQLUxq6YQ9/pMvXgUS8nRnBMNAV4D7ugfNpG5RpVOqI2qKcpgjJYM42h
+						bRRjS3mayhaGz58/Xx/M0iBUqlQJNUcoFQlTBkXgWu5p8gFDSkson6IWADXbwEPQ8/BmOfCWviJ4q3DgzfLDhY5KAvbu3YtV04Vt27bR
+						I/qLbjLUn376Ka4OlWR89NuzDEGQxgLMOlts6/7772eAiAv0+IDl0+rVqx26eX5xCDeUZlhNjIAJKkdmRBmg9EWs7e8C6xdJuKhbEUR+
+						EmyZ9e+//15vy0VFRT3wwAMYCka/detWmKa3RJzKUoDaTIOpRyCtXbYcpZuMgORA0gkYPeDPAX9QTHaJLTLaVAWBpacG5orAm+UH/Dln
+						YdMac/SXahXpJCcno930HeitYdZHtWvX5nL4Q+aL06U17Ko2fzCwVEvlRgtoOe332Mp5sKsuc8ibdR5OXz3w7qcZfC5BS5gXZoeBZUyY
+						dDqC5NF+jmrlj0TqS5ygZs2aDJdzagYg6FRANk1C1kz6s88+S0pKYqRkSTlz5nzqqadYcHIIS9qyZQujjH3IF0FCrIrRd7j/1zJb1sxR
+						r3GlGtSm+kmTwEaZaUCCiRcrRFTCYJotFdOfuNNUzmJ7Eev38M8FLqfeaVdlTAfpMtfi0tQJaAYDAhiHC4HCnMKJVEJVPvUDcwldRbv+
+						oCrmAg4wcUwHJ+rjcZMmTaK/mTNnRsFZ8T722GNSQ9C0aVM1m9OpnHYiiKrNHxTwppy4gDbTQUb17xLbowRXBO/55+GWWvdRFZbFMiY0
+						krFVszWYMJ98Wr5582bKf/fdd0WKFGE0iAWIeYmn6B3VqrZ0RtCpAGAEGS/GFMNil3EnjnrkkUf0Tq5WUJjU0KFDN23aRAGKMdAwCjtm
+						KNkSgGkCgDEjj2kHLhaQK6Ny6oRCbGkAPhAOkGayadXYsWOrVKmCeGVxfivhYUCmTPCBkjJ9uqna/EGdQGl1wdP6C78fofIkyOSoimGI
+						OuoPygiqB/jkA1UieAv5QYtbIgIJH5NFJYgdsU+BAgXob968ed977z3KvP322+xKDZs1a0YxmofusEYgHvFW5wfK6OqUVwfVMCkdJ8I6
+						uEf9Vwax1x/UKXj3z8N7mh8UUon8tJB2GpDPKCG79EKjtHz5cr04r4+IrFq1Sp4voxB0KuAeaGbajA5O4PPPP69Xrx6jxvAJxAiDBg0i
+						soJ1lGGgGW7GHVsUKwRGn4lheqjEY1mBAHMJMGIIwC6c56JqBpnvv/9+mTJl9MtCEB8fj1dkynUf+O6778b0aY/aliLcLb8coH2AU2R5
+						qoR87V4IpphAj7wpBzp6cVCMvtBxrk6PsPKHH36YPkqskQCWP4wJJKHyF198Ufmgfv36qCFTJnpcCGoGTVXXlENVSnNFTpccyEt7bCWN
+						gYlyISyTi2Ki9B3yq500UhNB80w7yaSdSnD64sWLr776akYAQYyLi9N396gTl4Do6BLpjGC8O8iW4TAzyjQzmlIHxn38+PG1atXC1ciY
+						QNGiRe+///7JkyfjnynDrOzYsYNx1xxoVpgAzQojHhCoQhJcghZiBxBg3bp1Xbp0Ma9/YPFoFjPdt2/fDRs2PPDAA2Tq2SGZeqdQtfmD
+						ag2Uw+WAf47gzneDcUgRtF+40IluXKQANEAHGVj6smDBgrJly9I7yV/VqlU5BDhEAc1sr1699JsRClSrVg0hQLgp463OD2qeATnqr1qu
+						XSpH3wETgRwDroUoGE/OdZXwh8fdpwROEVSG2gDVivNciDHk0jRAw+iGu53qAh3EJqntyy+/VEire94zZszQVQSu5U2lL4JOBRhrMxYM
+						utECTYZWCgzu8OHD9f1CaIableVVqFChd+/ehFs4B0wBA2WqkIDDDtAIvDSzEhAw2VyF1mKCGzduJOht1KiR4hRaRZNgO4l+/fqxPFEX
+						KPnCCy9QACeQP39+Ep06dfJW5wdjQDIsQBroKNAu0FFv7nl4j12YvY6JpgCfs7y5TmNSBNpH1zilT58++mAuvWYuHnzwQQZfUylSMR2I
+						OInnn3+eYpCB4cIrrl+/nkxvdReGGqbOAgYTmLbpqMAumRyVLkBaqIstpQiphj9EdWrwYbu5hOBc33MtbSkMSHCIwtgbu9geF6KPb7zx
+						BuovB4aFLF26VPrCsGhkaCfb9Ecw3hdIEbIkrMqMFPo6ZcqU66+/Xg9asDyRkF2cDEY5adKknTt3wlXOBSgIU6W4wNiKmS3ykQlcE9Uy
+						bexyVFOoNDYhcRHwYMwi83rnnXeaO71a/EMD3CBLlX/84x9qqk4hwWSPGzeuZMmSKkaDUS6iG7GFq+/fv5/2YEYkMETK01TyaScNkHnR
+						TqDmUZi0WpgiKJ8iHGNOge3qLxeS0yPhPeAIBFuawVaqSgNo4dq1a+vUqUOPCMrYEgG98847Tr9TgHqqvySQV0QI9FEtKkRTqJP66Ret
+						IkcdNLMA1OBgA/PFyDBotJMGM1YMHcK3b98+hohOoX1yVywMCxYsiPZhdc6Q/BUCyMjTHyGjAhJLgHYqwdgxuCTmz5/fqlUrvZzjhu6+
+						Nm/efMCAAVOnTk1OTobhzBNkRhGYIXkJ+ElV5HAJ+QdAmgIc5RC7pLE/gro5c+YMGTKkY8eOhL4KawHqjkFj/Vg2a/6RI0ca/0+1kg/F
+						k8rcvHlzkyZNdC7AONq0aQOXOEQxOoV9cGlMH/6rwRgW9kQOldBszA47oxj5WButFUP8IRu9EDxK4ACyCWoAAwUhuRyHvBWdPElL2HKI
+						rVQV03/uuefUC308rnr16kRGlFRP/UH7aTCJzz77THcKtSWI41rkUz+gyzSP7lOYAWT8AZ4ZjtEqoPYHDxgNHAPTQWvZ9axPzpyRGfzw
+						ww9t27aljxgJVnrNNdesWbOGDnqGw4ExaasClwZjJNVk1Bh0ZZrRxGI+/PBD6CSPBCHZKjInAYgRypUr16xZsw4dOrz44osUZlW2cOHC
+						ZcuWMStoM0t3lIK1/YoVK1jiTp8+/fPPP8etYeioDEEHPl+/dALUzCV0FVx6jRo1iAuM8we0lnb6zCu7WInSn3zyCbVRj1YHaArxi26Y
+						Y0AwAS4BEvAfMtBT+IlhwT25a9hIAi3A7Dw0TQmOiaYAh/spgNrQAirn0gwy3COTNiA9mDhXZ5fGoxGsbvQ6AM6NLaHN4MGDNR1mdi4E
+						qqXM119/TSjEuYDut2zZctWqVRylATSD0SPBtNJHGkyaBpBPp6SDQQWGiE7RVAUF5NBa+kJAetVVV9FB3RGsX78+XXDGwAv5Hu9OBiGU
+						VAAY1WTsMCP5cOwV2hg52LZt2xdffIEcYGFiKUJgHtTBWPedRYARJyQkMEmgWLFiUD1fvnymvD/grd5upvAdd9zx7rvvbtq0CQv4j/Pt
+						fZrhM6nEGrSQhPgDsBJMmZJwHrOgNlqoyCIpKYkKMX2KYS67du2C+dSAVZHJWeovLKU2SQD0cOzw74GzqAGQploqBApDlIMRy7kxtlxU
+						Vk6raMbo0aNvvvlmrb8YDbaNGzdevnw5R5kRyns6eQFQQJMoNfzpp58aNGjANGlSWCt98MEHlGEwURwaSW2Ahqm1aqfTg+CCWsVAMXSE
+						KvQRO+zXrx/iiMrLnHr06IFtyFBJUAa4rcXGApcFxQIGDKI35YBBxFIND7GkrVu34vM7d+5cu3ZtYgSmhMkQMGJ2CUdlxz7AKCmAdcrn
+						U5JwLjExkQX/vffe++yzzy5evBgLRox0aYiqKVQL2ZJDY0wBNZV8QxLSysRdlClThouaQAMtwICITTiK39u5cydshDbiPOQH2BxVcVQM
+						cUzxb0CkErxZDqiNOqmZfOkLW5hPa2nGm2++qV9/A1ZAGDe8JbaHAybGMV1OEVTOlrECmibqZ4KokGgZNQQPPvggURVXpDBdBnQfQDBy
+						aBL+1mlsEEECun37do0Dq9SbbroJK5J14VcmTpyIRkhJtfWHjz2nG0JGBRhBJYz1COxCe4YVo9EuIIEtko81G+vEmy1dunTy5MkE+d26
+						dbvzzjtxaNWqVcOsWeQT3ILixYtfd9115cuXZ33LLOKmunfvDiFHjBgxd+5c1F1e3Q1mTtLjfpyBBCgN2KUZapUblMem5RmoFoJpaW1u
+						NxCbdOnSBblRGTqCk4Ez4qeEAOODG9ifQ+cUIBv1B2expYCqMkwjwVWgPfkaZ8qwsn366adLly6t5slvo6q9evX68ccfPZ1xnJvptX9n
+						3dAY0n2Vl+mPHTtWUigQZ7311lu0h14zvAwgad0OoMtOD4ILjBiNpCM7duzAT3i74TibunXr6vU2Y4o+KsBQAO9ORiBkVMDIJAkUAZvD
+						1MR84DY7bEu0ERhflffuOzDnkuAo0wMrBDlDajCXMFcRmEJoQxku5HOIXTOdpClA5SZHVgI4XQlDb9kHhV9//XV9pMgdtlSpUmXIkCHJ
+						ycmUV5MoCV337duHtNFmTnconwK8RuoH/6PqPkBAuQqt3bhx48iRI2+55RY1Ay+tBPI0cOBANNHphKenppt02WeofcBRM5WcxeVIMOZs
+						ocoDDzyg1+m4CpHRjTfeuGDBAnhFtYBGSu84S20OHmAP6BTTJyknriFBuPTyyy/TZSZOc03LZQaMMCNmwC6ZGYVQWhEwWJiCd8cxPsaX
+						TO2SMOYlsOvOUWEgInlzzyPFTHKoga0STKQJd820USGt0q7J9K/N1KNdCCCHYDhj4oJdu3bhGMuVK6cHaVBCvpeosk6dOi+99NIXX3zB
+						mlnX4upQCEckVvvDa6R+QInw9iSM6tE1OnLgwIFVq1YRmNx6660FChQg5ge6vQIqVarEIVqoq9Md+kUbTL8EcrwpP5gZMZqo0ED5pD/4
+						4AMTFEh3WrVqhRbQVNpJjxQNOZ0IIowaNUp3OuPi4rQKYABXrlyp+TWGIQPWcPkPmjGGdEaI3ReIHCATs2bNatu2rZ4gAGkBiI2NZeXC
+						igZFmDlz5pYtW1iWw2EJDVsoTXQAo8RttigOu4AENZMp8eIQ58LqefPm4bU6duzIgihv3rzQD/Uxd0zwz02aNPnwww9FXa7CudRgjDsg
+						QI9EDDSOhZicqh5A0J7bbrtt6tSplOGieFQJAYoAyKRrbD1LGudZPe0EFFMBchgQCuhEwLl03JxIGckih5RmoChMghydpUUTCU7UlhFA
+						f829EjUVsDt+/HhqVr+CH1YFgh1QdPjw4TgWyYG0AH5CDIAiJCYm4jzbtGnz+OOPDx069JNPPpk9e/aSJUvWrFlDjL35PAjvV69evXjx
+						4jlz5kyfPv3VV19lqd+yZcvKlStTA7Gr4bwBldesWRMrZ/Ev9w5LMW60Q20zjj31MIKy3/k3ChLfffdd+/btaQaRiIIR+l6vXr0xY8bs
+						3LmTZuA5KQkPf/75Z+gq0or8MJZ83UegJJolhnu89vm7IWI1lyMhOQA6nQJcgtqIPihPMcpThqNsuSgSsGLFip49e7I4cobKiyJFirzz
+						zjsUVtt8vH3QwqpA8EJLTVy3dpOTk2F4ixYtzF+/AxMgSBfMLsA1FSpUyPP8M6UnoJTH27PLWcoRqAFRaNq06YgRI/TqOxAtAVogORAU
+						3wYEEMaHM1wIlVm+fPkDDzygOwUCLSdMeOyxxyZOnMj4UJJiEFje/uDBg7AalpJDs8mhzL59+6C0EQJFAQKcV4JDCIdOVxlqILF7925i
+						E+ZCV0FPR48ezfjkyZOHsWLVpic7RGeDBg1ixOA/wxIq/BesCgQp3GYEH9ACbEsOE3tlwYnPadeuHYqQkJCgd6gFTBNiQxuAC/WRBkN+
+						774DoowaNWo8+OCDffv2XbZs2QHnx8IKvIFoD6OM51d7Am7oVGvqJNzQ5diSXrVqVY8ePVituFtO15KSkh566CHCb5ZFMJmVDu1EDuTA
+						YTVb0uTAahJoASQHKAI5+HYyGU/y9WSEQ3SZ8hRgq4U6DaP+t956i1WYfgUE9MojKFu2LOO2fft2hUiMjImVqF+JIIdVgSAF1o8JAhMq
+						kzC+F1s3BsqSgTj/s88+I3R/9NFHGzVqVKVKFdYIMKRkyZLEqEQB2G7RokVLlChRoUIFgvybb765S5cu/fv3Hzt27DfffIMFQyExUNwj
+						LfILxqwNSylmGhZAUKf6JeB7uZDp9YYNG5599lm6hpC5hY/lDN1s2LBh9+7dWe+w8EHIUARay+nSBQgpOI7f+wMhQA5+3ogaW3bRAkIA
+						whDcfseOHfUtACAN4uqIKRdlqBl29ELNc4OWuzsS5LAqEOzAmBQIyEyNcxZIG72gjDgsYIi4OICZytylHaoHvrlpTD7lcY8QXgVUM2mK
+						wSiOAoqpPCDf3ZLUwwQ7gGtxUWUqB3IqQQtRvTZt2pQrVw4qmrsGQME5AoF/vu2221C6N954Y8qUKSjd999/v2nTJiJ2BAKS4/n379+/
+						x8HGjRsXLVo0adKkkSNH4tVZgHBu6dKlzUtcJLgEzGcbFxdXuXLl5557Tu90AYaIJmmCaL97iNzTEcywKhC8wKQMKwTDOswOnpijSrDF
+						7DBHIAKTqTSH2JWZit5sgfKdOlIAR4F35zwoDz/dth5A0CT6ZciDbCkTKEe9U5uJ9mfOnIn/J/ZBDqArRBVvBZZCZjVEAA+BCYuIj9AI
+						VlLEFDj5YsWKFShQgNM9KyhnrcTWnCWVIcG5TZo0YeWfnJwseaKRNICwwmmXB4yVWk5ryTcBVPDDqkCQAlv3ps67ZaXdtiWKQgkKmwKA
+						HHbdBCbHQ2gHpAVziMLUYJhGgmJKA9Lk6CiFlRACaOju9nNF964PaACtlUAAChMmbNu27eOPP+7WrdsNN9zAwsd99zQ6Ohp1cATB8z6v
+						UQp32h/x8fHUc+utt7IGmT179sGDB82YcHW3CDpj8x/aowJmYMFFehFUsCpgEZLwyFhKgKKE+suWLZswYcKQIUMefvjhhg0bVqpUCedP
+						FFCoUKHcuXMTFyATuXLlYu1QvHjxpKQkooPq1as3a9bsySefHD58OIuILVu2+Cz4ITmVe3fCC1YFLEISXtL7QUdhLP5ZaahLsAClDx8+
+						vHfv3u3bt8NwQPhAeufOnfj5M2fOEOe7AyhyTA3u/LCEVQGLkISX9H4Q/y/JW29pB94sB5zoftQHqIf436qAhUVIAurCajgMSKQIVEDF
+						iAXcz2JSxEUOhTSsCliEFcRkwgG4LXgPOBDngeGzTwED8lWJd9/BhQqHOqwKWIQzYLshvOCf4wPx36SVCG9YFbAIK+imAJAnF+cNxHC2
+						5pDO0opANwhNJjBpznLnhxmsCliEG6CrSO7dd+CfI6SYTybLCkBCOagAUDr8YFXAwiLSYVXAwiLSYVXAwiLSYVXAwiLSYVXAwiLSYVXA
+						wiLSYVXAwiLSYVXAwiLSYVXAwiLSYVXAwiLSYVXAwiLSYVXAwiKy8d///j/v6PTkE33FmwAAAABJRU5ErkJggg=="/>
+			<rect v:rectContext="foreign" x="0" y="538.253" width="88.9039" height="57.0229" class="st7"/>
+		</g>
+		<g id="shape55-100" v:mID="55" v:groupContext="shape" v:layerMember="0" transform="translate(336.614,-446.457)">
+			<title>流程.55</title>
+			<desc>注册企业账号</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow55-101" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st9">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st10"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st11"/>
+			<text x="11.43" y="576.68" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>注册企业账号</text>		</g>
+		<g id="shape56-106" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(453.543,-446.457)">
+			<title>流程.56</title>
+			<desc>注册、登陆APP账号</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow56-107" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st9">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st10"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st11"/>
+			<text x="4.99" y="571.35" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>注册、登陆<tspan
+						class="st3">APP</tspan>账<tspan x="31.43" dy="1.331em" class="st6">号</tspan></text>		</g>
+		<g id="shape57-114" v:mID="57" v:groupContext="shape" v:layerMember="1" transform="translate(524.409,-460.63)">
+			<title>动态连接线.57</title>
+			<path d="M0 588.19 L49.65 588.19" class="st4"/>
+		</g>
+		<g id="shape58-119" v:mID="58" v:groupContext="shape" v:layerMember="1" transform="translate(407.48,-460.63)">
+			<title>动态连接线.58</title>
+			<path d="M0 588.19 L39.02 588.19" class="st4"/>
+		</g>
+		<g id="shape60-124" v:mID="60" v:groupContext="shape" v:layerMember="1" transform="translate(407.48,-290.551)">
+			<title>动态连接线.60</title>
+			<path d="M0 588.19 L39.02 588.19" class="st4"/>
+		</g>
+		<g id="shape59-129" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(453.543,-276.378)">
+			<title>流程.59</title>
+			<desc>验证设备</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow59-130" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st9">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st10"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st11"/>
+			<text x="19.43" y="576.68" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>验证设备</text>		</g>
+		<g id="shape62-135" v:mID="62" v:groupContext="shape" v:layerMember="1" transform="translate(524.409,-290.551)">
+			<title>动态连接线.62</title>
+			<path d="M0 588.19 L49.65 588.19" class="st4"/>
+		</g>
+		<g id="shape64-140" v:mID="64" v:groupContext="shape" v:layerMember="1" transform="translate(609.449,-276.378)">
+			<title>动态连接线.64</title>
+			<path d="M7.09 595.28 L7.09 609.5" class="st4"/>
+		</g>
+		<g id="shape63-145" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(581.102,-212.598)">
+			<title>流程.63</title>
+			<desc>获取XSDK的设备实例</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="2.98" y="571.35" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>获取<tspan class="st3">XSDK</tspan>的设备实<tspan
+						x="31.43" dy="1.331em" class="st6">例</tspan></text>		</g>
+		<g id="shape66-151" v:mID="66" v:groupContext="shape" v:layerMember="1" transform="translate(609.449,-212.598)">
+			<title>动态连接线.66</title>
+			<path d="M7.09 595.28 L7.09 609.5" class="st4"/>
+		</g>
+		<g id="shape65-156" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(581.102,-148.819)">
+			<title>流程.65</title>
+			<desc>订阅设备</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="19.43" y="576.68" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>订阅设备</text>		</g>
+		<g id="shape68-160" v:mID="68" v:groupContext="shape" v:layerMember="1" transform="translate(609.449,-148.819)">
+			<title>动态连接线.68</title>
+			<path d="M7.09 595.28 L7.09 609.5" class="st4"/>
+		</g>
+		<g id="shape67-165" v:mID="67" v:groupContext="shape" v:layerMember="0" transform="translate(581.102,-85.0394)">
+			<title>流程.67</title>
+			<desc>控制设备/获取设备信息</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st1"/>
+			<text x="5.89" y="571.35" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>控制设备<tspan class="st3">/</tspan>获取设<tspan
+						x="23.43" dy="1.331em" class="st6">备信息</tspan></text>		</g>
+		<g id="shape74-171" v:mID="74" v:groupContext="shape" v:layerMember="1" transform="translate(481.89,-446.457)">
+			<title>动态连接线.74</title>
+			<path d="M7.09 595.28 L7.09 639.24" class="st13"/>
+		</g>
+		<g id="shape75-180" v:mID="75" v:groupContext="shape" v:layerMember="1" transform="translate(398.568,-446.457)">
+			<title>动态连接线.75</title>
+			<path d="M0 595.28 L54.84 639.24" class="st13"/>
+		</g>
+		<g id="shape78-187" v:mID="78" v:groupContext="shape" v:layerMember="1" transform="translate(372.047,-318.898)">
+			<title>动态连接线.78</title>
+			<path d="M0 595.28 L72.48 561.13" class="st13"/>
+		</g>
+		<g id="shape79-194" v:mID="79" v:groupContext="shape" v:layerMember="1" transform="translate(481.89,-318.898)">
+			<title>动态连接线.79</title>
+			<path d="M7.09 595.28 L7.09 568.7" class="st13"/>
+		</g>
+		<g id="shape83-201" v:mID="83" v:groupContext="shape" transform="translate(444.524,-367.984)">
+			<title>工作表.83</title>
+			<desc>云智易云平台</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.452" cy="589.276" width="88.91" height="12"/>
+			<rect x="0" y="583.276" width="88.9039" height="12" class="st15"/>
+			<text x="14.45" y="592.6" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>云智易云平台</text>		</g>
+	</g>
+</svg>
