@@ -10,11 +10,11 @@
 ## <a name='overview'>概述</a> ##
 该文档描述了JS SDK的安装和使用方法。包括简单的代码示例
 JS SDK提供了4个类:[XSDK](#xsdk)，[Device](#device), [XUI](#xui), [DataStorage](#dataStorage)。图1.1是JS SDK的UML类图
-![图1.1](./resource/image/xjssdk.svg)
+![图1.1](./resource/image/xjssdk.png)
 
 > *蓝牙和WIFI内网环境下*，初始化XSDK和连接控制设备流程如图1.2，[代码示例](#code1)
 > *WIFI公网环境下*，初始化XSDK和连接控制设备流程如图1.3，[代码示例](#code2)
-![图1.2 图1.3](./resource/image/process.svg)
+![图1.2 图1.3](./resource/image/process.png)
 ## <a name='installation'>安装方法</a> ##
 ## <a name='example'>代码示例</a> ##
 ## <a name='document'>接口文档</a> ##
@@ -33,13 +33,13 @@ JS SDK 在window下暴露了一个全局的XSDK类，根据构造函数参数，
 #### 构造函数 ####
 | 构造函数和描述 |
 |------------|
-| XSDK(String type) (返回XSDK的一个连接实例) <br/>参数：type-设备类型[SDKType](#sdkType)的一种|
+| XSDK (String type) <br/>参数：type-设备类型[SDKType](#sdkType)的一种|
 
 #### 方法 ####
 | 修饰符和类型 | 方法和描述 |
 |--------------|------------|
 | void | emit (String event) (触发事件) <br/> 参数: event-支持的发送事件有[STARTSCAN](#STARTSCAN) [CANCELSCAN](#CANCELSCAN) [DESTORY](#DESTORY)|
-| void | on (String event, Function cb) (监听事件) <br/>参数: event-支持的监听事件有[READY](#READY) [SCAN](#DISCONNECT) [DATA](#DATA) [STATUSCHANGE](#STATUSCHANGE) [TIMEOUT](#TIMEOUT) [ERROR](#ERROR) <br/> &#8195;&#8195;&#8195;cb-监听事件的回调函数|
+| void | on (String event, Function cb) (监听事件) <br/>参数： event-支持的监听事件有[READY](#READY) [SCAN](#DISCONNECT) [DATA](#DATA) [STATUSCHANGE](#STATUSCHANGE) [TIMEOUT](#TIMEOUT) [ERROR](#ERROR) <br/> &#8195;&#8195;&#8195; cb-监听事件的回调函数|
 
 ### <a name='device'>Class Device</a> ###
 Device类表示设备。每一个Device实例根据设备id(device_id)唯一关联一个设备。
@@ -56,8 +56,8 @@ Device类表示设备。每一个Device实例根据设备id(device_id)唯一关�
 #### 方法 ####
 | 修饰符和类型 | 方法和描述 |
 |--------------|------------|
-| void | emit (String event[, String data]) (触发事件) <br/> 参数: event-支持的发送事件有[CONNECT](#CONNECT) [DISCONNECT](#DISCONNECT) [GET](#GET) [PUT](#PUT)<br/>&#8195;&#8195;&#8195;data-仅在事件为[PUT](#PUT)时添加|
-| void | on (String event, Function cb) (监听事件) <br/>参数: event-支持的监听事件有[CONNECT](#CONNECT) [DISCONNECT](#DISCONNECT) [DATA](#DATA) [TIMEOUT](#TIMEOUT) [ERROR](#ERROR) <br/> &#8195;&#8195;&#8195;cb-监听事件的回调函数|
+| void | emit (String event[, String data]) (触发事件) <br/> 参数： event-支持的发送事件有[CONNECT](#CONNECT) [DISCONNECT](#DISCONNECT) [GET](#GET) [PUT](#PUT)<br/>&#8195;&#8195;&#8195; data-仅在事件为[PUT](#PUT)时添加|
+| void | on (String event, Function cb) (监听事件) <br/>参数： event-支持的监听事件有[CONNECT](#CONNECT) [DISCONNECT](#DISCONNECT) [DATA](#DATA) [TIMEOUT](#TIMEOUT) [ERROR](#ERROR) <br/> &#8195;&#8195;&#8195; cb-监听事件的回调函数|
 
 ### Class SDKEvent ###
 #### 属性 ####
