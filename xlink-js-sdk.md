@@ -10,11 +10,11 @@
 ## <a name='overview'>概述</a> ##
 该文档描述了JS SDK的安装和使用方法。包括简单的代码示例
 JS SDK提供了4个类:[XSDK](#xsdk)，[Device](#device), [XUI](#xui), [DataStorage](#dataStorage)。图1.1是JS SDK的UML类图
-![图1.1](./resource/image/xjssdk.png)
+![图1.1](./resource/image/xjssdk.svg)
 
-*蓝牙和WIFI内网环境下*，初始化XSDK和连接控制设备流程如图1.2，[代码示例](#code1)
-*蓝牙和WIFI内网环境下*，初始化XSDK和连接控制设备流程如图1.3，[代码示例](#code2)
-![图1.2 图1.3](./resource/image/process.png)
+> *蓝牙和WIFI内网环境下*，初始化XSDK和连接控制设备流程如图1.2，[代码示例](#code1)
+> *WIFI公网环境下*，初始化XSDK和连接控制设备流程如图1.3，[代码示例](#code2)
+![图1.2 图1.3](./resource/image/process.svg)
 ## <a name='installation'>安装方法</a> ##
 ## <a name='example'>代码示例</a> ##
 ## <a name='document'>接口文档</a> ##
@@ -100,7 +100,7 @@ Device类表示设备。每一个Device实例根据设备id(device_id)唯一关�
 
 >#### <a name='scanQCode'>scanQCode() 扫描二维码方法说明</a> ####
 扫描二维码方法会将扫描结果以参数的方式传递的回调函数，参数结构如下:
-```json
+```
 {
     status: 200, // 200表示成功
     msg: '描述信息',
